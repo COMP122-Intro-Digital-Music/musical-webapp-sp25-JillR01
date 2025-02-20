@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "Stutter",
+    "file": "samples/ambient-dreamy-pad-stutter_95bpm_B_major.wav",
+    "bpm": "95",
+    "loop": "2m",
+    "grain": "0.04",
+    "overlap": 0.01
+  },
+  {
+    "name": "Vocal",
+    "file": "samples/two-different-worlds-epic-vocal-chops_128bpm_B_minor.wav",
+    "bpm": "95",
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "RnB",
+    "file": "samples/r-b-spacey-pad-buzzy-keys_146bpm_F_minor.wav",
+    "bpm": "95",
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  }
+]

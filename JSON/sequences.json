@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "name": "Number 1",
+    "loop": "3:3:0.2",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "1:1:0.2",
+        "pitch": "C4",
+        "dur": "1n.",
+        "vel": "1"
+      }
+    ]
+  },
+  {
+    "name": "Number 2",
+    "loop": "3:3:0.2",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "2:1:0.2",
+        "pitch": "Bb4",
+        "dur": "1n.",
+        "vel": "1"
+      }
+    ]
+  }
+]
